@@ -1,0 +1,20 @@
+Infrastructure as Code (IaC): It's a method used in cloud computing to manage and provision infrastructure (like servers, networks, and storage) using code rather than manual processes.
+
+Declarative vs. Imperative Programming:
+
+Declarative: You specify what you want the end result to be without necessarily describing the steps to get there.
+Imperative: You explicitly list the steps needed to achieve a desired outcome.
+Importance of IaC in Cloud Computing: IaC is crucial in cloud computing because it allows for the automation and consistency of infrastructure deployment and management, making processes more efficient and less error-prone.
+
+Benefits of Using Infrastructure as Code:
+
+Automation: Streamlines deployment and management processes.
+Consistency: Ensures that infrastructure configurations are consistent across environments.
+Scalability: Easily scales infrastructure up or down as needed.
+Collaboration: Facilitates collaboration among team members by using version control systems.
+Efficiency: Reduces manual errors and speeds up deployment times.
+Comparison of CloudFormation and Terraform:
+
+Language: CloudFormation uses JSON or YAML, while Terraform has its own declarative language called HashiCorp Configuration Language (HCL).
+Features: Both tools provide similar features for infrastructure provisioning and management, but Terraform often offers more flexibility and support for multiple cloud providers.
+Ecosystem: Terraform has a larger ecosystem with more community-contributed modules and integrations, whereas CloudFormation is tightly integrated with AWS services.
